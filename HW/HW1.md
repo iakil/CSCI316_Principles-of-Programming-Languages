@@ -1,6 +1,6 @@
 ## HW 1: 
 
-Here is a [link](https://replit.com/@JoshuaWaxman/DifferentEcstaticOrigin#main.py) [(alt)](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/ClassCode/DifferentEcstaticOrigin/) to my REPL:
+Here is a [link](https://replit.com/@JoshuaWaxman/DifferentEcstaticOrigin#main.py) [(alt)](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/tree/main/ClassCode/DifferentEcstaticOrigin) to my REPL:
 
 There, you will find the following code (towards the bottom):
 
