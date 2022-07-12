@@ -1,7 +1,7 @@
 # Akil Bhuiyan
 # Professor Joshua Waxman
 # CSCI 316
-# HW1
+# HW1 - Find the area of a circle in Python
 
 PI:float = 3.141592653589793 # value of PI
 

@@ -1,11 +1,3 @@
-# def foo():
-#   '''This is a function that prints the word hello'
-# '''
-#   print("hello")
-
-# foo()
-# print(foo.__doc__)
-
 # -----------------------------------------------------------------------------
 # calc.py
 #
@@ -71,19 +63,13 @@ names = {}
 
 def p_statement_assign(p):
     'statement : NAME "=" expression'
-    print("p[0]:", p[0])
-    print("p[1]:", p[1])
-    print("p[2]:", p[2])
-    print("p[3]:", p[3])
     names[p[1]] = p[3]
 
 
 
 def p_statement_expr(p):
     'statement : expression'
-    # print(p[:])
     print(p[1])
-
 
 def p_expression_binop(p):
     '''expression : expression '+' expression

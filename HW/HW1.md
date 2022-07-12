@@ -1,4 +1,4 @@
-## HW 1: 
+## HW 1: Find the area of a circle in Python
 
 Here is a [link](https://replit.com/@JoshuaWaxman/DifferentEcstaticOrigin#main.py) [(alt)](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/tree/main/ClassCode/DifferentEcstaticOrigin) to my REPL:
 
