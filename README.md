@@ -29,9 +29,6 @@ Principles and implementation of programming languages. Topics include: the proc
 </summary>
 <pre>
 
-##### Here is all of my HW descriptions.
-
-## HW:
 [HW1](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/A_Bhuiyan_HW1.py) [HW2](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/A_Bhuiyan_HW2.py) [HW3](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/A_Bhuiyan_HW3.py) [HW4](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/A_Bhuiyan_HW4.py) [HW5](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/A_Bhuiyan_HW5.py)
 </pre>
 <details>
@@ -42,7 +39,7 @@ Principles and implementation of programming languages. Topics include: the proc
 
 ## HW 1: Find the area of a circle in Python
 
-Here is a [link](https://replit.com/@JoshuaWaxman/DifferentEcstaticOrigin#main.py) [(alt)](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/tree/main/ClassCode/DifferentEcstaticOrigin) to my REPL:
+Here is a [alt](https://replit.com/@JoshuaWaxman/DifferentEcstaticOrigin#main.py) [(link)](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/tree/main/ClassCode/DifferentEcstaticOrigin) to my REPL:
 
 There, you will find the following code (towards the bottom):
 
@@ -81,7 +78,7 @@ Modify the code so it has your own name in the first comment. Also, after each o
 
 ## HW 2: Add exponent to CFG
 
-Here is a [link](https://replit.com/@JoshuaWaxman/DroopyAggressiveCharactermapping#main.py) [(alt)](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/tree/main/ClassCode/DroopyAggressiveCharactermapping/main.py) to my REPL:
+Here is a [alt](https://replit.com/@JoshuaWaxman/DroopyAggressiveCharactermapping#main.py) [(link)](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/tree/main/ClassCode/DroopyAggressiveCharactermapping/main.py) to my REPL:
 
 ```python
 from nltk import CFG
@@ -121,7 +118,7 @@ To submit:
 
 ## HW 3: Modify PLY calc code
 
-You can access the code for this assignment here, at replit: [link](https://replit.com/@JoshuaWaxman/GoldenLopsidedDifferences#main.py) [(alt)](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/tree/main/ClassCode/GoldenLopsidedDifferences/main.py)
+You can access the code for this assignment here, at replit: [alt](https://replit.com/@JoshuaWaxman/GoldenLopsidedDifferences#main.py) [(link)](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/tree/main/ClassCode/GoldenLopsidedDifferences/main.py)
 
 Modify the code to support the following three bits of functionality.
 1) Change the NUMBER token so that it supports floats (with a single decimal point) and not just ints. It should still recognize ints (like 5), so the single decimal point should be optional in your regex portion of the code. 
