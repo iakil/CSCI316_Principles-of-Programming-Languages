@@ -20,17 +20,10 @@ Principles and implementation of programming languages. Topics include: the proc
 </pre>
 </details>
 
-<br>
 
 
 
 
-<!---
-your comment goes here
-and here
--->
-
-<br>
 
 <details> 
 <summary>
@@ -43,7 +36,7 @@ and here
 ##### Here is all of my HW descriptions.
 
 ## HW:
-[HW1](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW1.md) [HW2](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW2.md) [HW3](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW3.md) [HW4](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW4.md) [HW5](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW5.md)
+[HW1](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/A_Bhuiyan_HW1.py) [HW2](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/A_Bhuiyan_HW2.py) [HW3](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/A_Bhuiyan_HW3.py) [HW4](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/A_Bhuiyan_HW4.py) [HW5](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/A_Bhuiyan_HW5.py)
 </pre>
 <details>
 <summary> 
@@ -82,7 +75,6 @@ Modify the code so it has your own name in the first comment. Also, after each o
 1) The Python file (ending in .py)
 2) The link to your own REPL (as a comment, perhaps on the assignment if this is possible).
 3) The exported JSON for your recording. (I'll be able to lightly edit it and then replay the recording myself.)
-
 </pre>
 </details>
 <details>
