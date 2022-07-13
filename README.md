@@ -4,22 +4,25 @@ Principles and implementation of programming languages. Topics include: the proc
 
 <br>
 
+<Details>
+<summary>
+
 ## ClassCode:
+
+</summary>
+<pre>
 
 ### [DifferentEcstaticOrigin](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/tree/main/ClassCode/DifferentEcstaticOrigin)
 
 ### [DroopyAggressiveCharactermapping](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/tree/main/ClassCode/DroopyAggressiveCharactermapping)
 
 ### [GoldenLopsidedDifferences](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/tree/main/ClassCode/GoldenLopsidedDifferences)
+</pre>
+</details>
 
 <br>
 
-## HW:
-[HW1](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW1.md)
-[HW2](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW2.md)
-[HW3](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW3.md)
-[HW4](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW4.md)
-[HW5](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW5.md)
+
 
 
 <!---
@@ -38,6 +41,9 @@ and here
 <pre>
 
 ##### Here is all of my HW descriptions.
+
+## HW:
+[HW1](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW1.md) [HW2](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW2.md) [HW3](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW3.md) [HW4](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW4.md) [HW5](https://github.com/iakil/CSCI316_Principles-of-Programming-Languages/blob/main/HW/HW5.md)
 </pre>
 <details>
 <summary> 
@@ -79,9 +85,6 @@ Modify the code so it has your own name in the first comment. Also, after each o
 
 </pre>
 </details>
-
-
-
 <details>
 <summary> 
  HW2    
@@ -120,14 +123,8 @@ To submit:
 1) The Python file (ending in .py)
 2) The link to your own REPL (as a comment, perhaps on the assignment if this is possible).
 3) The exported JSON for your recording. (I'll be able to lightly edit it and then replay the recording myself.)
-
-
 </pre>
 </details>
-
-
-
-
 <details>
 <summary> 
  HW3   
@@ -142,9 +139,6 @@ Modify the code to support the following three bits of functionality.
 1) Change the NUMBER token so that it supports floats (with a single decimal point) and not just ints. It should still recognize ints (like 5), so the single decimal point should be optional in your regex portion of the code. 
 2) Add a binary operator of == to do comparison. If the two operands are equal, then it should evaluate to 1.0. Otherwise it should evaluate to 0.0.
 3) At a ternary elvis operator ?: which works like the question mark - colon in C++. That is, in x ? y : z, if the expression represented by x evaluates to non-zero, then the entire expression evaluates to y. Otherwise, the entire expression evaluates to z. Note that x, y and z need not be individual variables (that is, NAME) but are expressions. Since this is a ternary operator rather than binary, I would recommend copying the entire p_ function for binop, renaming it for ternary, and modifying that.
-
-
 </pre>
 </details>
-
 </details>
