@@ -5,7 +5,7 @@ from typing import Dict, Callable
 def main():
   x: int = 0
   y: int = 0
-  x = int (input ("Please enter a number"))
+  x = int (input("Please enter a number"))
 
 # We can use nonlocal variable only in nested function
 # nonlocal refer to the same variable within nested fuction

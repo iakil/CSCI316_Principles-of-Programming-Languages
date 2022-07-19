@@ -9,19 +9,19 @@ import sys
 sys.path.insert(0, "../..")
 
 tokens = (
-    'NAME', 'NUMBER',
+    'NAME', 'NUMBER', 'EQUALITY'
 )
 
-literals = ['=', '+', '-', '*', '/', '(', ')']
+literals = ['=', '+', '-', '*', '/', '(', ')', ':', '?']
 
 # Tokens
 
 t_NAME = r'[a-zA-Z_][a-zA-Z0-9_]*'
-
+t_EQUALITY = r'=='
 
 def t_NUMBER(t):
-    r'\d+'
-    t.value = int(t.value)
+    r'\d+(\.\d+)?'
+    t.value = float(t.value)
     return t
 
 t_ignore = " \t"
@@ -52,6 +52,8 @@ lex.lex()
 # Parsing rules
 
 precedence = (
+    ('left', '?', ':'),
+    ('left', 'EQUALITY'),
     ('left', '+', '-'),
     ('left', '*', '/'),
     ('right', 'UMINUS'),
@@ -75,8 +77,9 @@ def p_expression_binop(p):
     '''expression : expression '+' expression
                   | expression '-' expression
                   | expression '*' expression
-                  | expression '/' expression'''
-    
+                  | expression '/' expression
+                  | expression EQUALITY expression
+  '''
     if p[2] == '+':
         p[0] = p[1] + p[3]
     elif p[2] == '-':
@@ -85,7 +88,16 @@ def p_expression_binop(p):
         p[0] = p[1] * p[3]
     elif p[2] == '/':
         p[0] = p[1] / p[3]
+    elif p[2] == '==':
+        p[0] = 1.0 if p[1] == p[3] else 0.0
 
+
+def p_expression_elvis(p):
+  '''expression : expression '?' expression ':' expression
+  '''
+  p[0] = p[3] if p[1] != 0 else p[5]
+
+  
 
 def p_expression_uminus(p):
     "expression : '-' expression %prec UMINUS"
