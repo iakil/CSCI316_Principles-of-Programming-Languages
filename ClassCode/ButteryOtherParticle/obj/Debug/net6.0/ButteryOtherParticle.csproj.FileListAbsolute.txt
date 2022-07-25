@@ -1,0 +1,15 @@
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/bin/Debug/net6.0/ButteryOtherParticle
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/bin/Debug/net6.0/ButteryOtherParticle.deps.json
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/bin/Debug/net6.0/ButteryOtherParticle.runtimeconfig.json
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/bin/Debug/net6.0/ButteryOtherParticle.dll
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/bin/Debug/net6.0/ButteryOtherParticle.pdb
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/obj/Debug/net6.0/ButteryOtherParticle.csproj.AssemblyReference.cache
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/obj/Debug/net6.0/ButteryOtherParticle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/obj/Debug/net6.0/ButteryOtherParticle.AssemblyInfoInputs.cache
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/obj/Debug/net6.0/ButteryOtherParticle.AssemblyInfo.cs
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/obj/Debug/net6.0/ButteryOtherParticle.csproj.CoreCompileInputs.cache
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/obj/Debug/net6.0/ButteryOtherParticle.dll
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/obj/Debug/net6.0/refint/ButteryOtherParticle.dll
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/obj/Debug/net6.0/ButteryOtherParticle.pdb
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/obj/Debug/net6.0/ButteryOtherParticle.genruntimeconfig.cache
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/ClassCode/ButteryOtherParticle/obj/Debug/net6.0/ref/ButteryOtherParticle.dll

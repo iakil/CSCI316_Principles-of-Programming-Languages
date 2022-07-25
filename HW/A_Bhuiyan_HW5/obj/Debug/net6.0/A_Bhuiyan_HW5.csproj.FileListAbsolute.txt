@@ -1,0 +1,15 @@
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/bin/Debug/net6.0/A_Bhuiyan_HW5
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/bin/Debug/net6.0/A_Bhuiyan_HW5.deps.json
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/bin/Debug/net6.0/A_Bhuiyan_HW5.runtimeconfig.json
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/bin/Debug/net6.0/A_Bhuiyan_HW5.dll
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/bin/Debug/net6.0/A_Bhuiyan_HW5.pdb
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/obj/Debug/net6.0/A_Bhuiyan_HW5.csproj.AssemblyReference.cache
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/obj/Debug/net6.0/A_Bhuiyan_HW5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/obj/Debug/net6.0/A_Bhuiyan_HW5.AssemblyInfoInputs.cache
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/obj/Debug/net6.0/A_Bhuiyan_HW5.AssemblyInfo.cs
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/obj/Debug/net6.0/A_Bhuiyan_HW5.csproj.CoreCompileInputs.cache
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/obj/Debug/net6.0/A_Bhuiyan_HW5.dll
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/obj/Debug/net6.0/refint/A_Bhuiyan_HW5.dll
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/obj/Debug/net6.0/A_Bhuiyan_HW5.pdb
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/obj/Debug/net6.0/A_Bhuiyan_HW5.genruntimeconfig.cache
+/Users/akil/Documents/GitHub/CSCI316_Principles-of-Programming-Languages/HW/A_Bhuiyan_HW5/obj/Debug/net6.0/ref/A_Bhuiyan_HW5.dll
