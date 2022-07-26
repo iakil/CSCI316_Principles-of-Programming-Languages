@@ -13,3 +13,8 @@ int main() {
     p[0] = 100;
     flarmer();
 }
+
+/** 
+It will print hello
+Without static keyword it will crash (I can assume did not crash, why it would print or not without static, explained on my exam paper.)
+**/

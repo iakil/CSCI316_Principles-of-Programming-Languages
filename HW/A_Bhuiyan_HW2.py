@@ -3,27 +3,32 @@
 # CSCI 316
 # HW2 - Add exponent to CFG
 
-# imports
 from nltk import CFG
 from nltk import ChartParser
 
-# Exponent added to the CFG
 grammar = CFG.fromstring("""
 S -> Expression
-Expression -> Expression PlusMinus Term1 | Term1
-Term1 -> Term2 | Term1 TimesDivide Term2
-Term2 -> Factor | Term2 Exponent Factor
-Factor -> 'W' | 'X' | 'Y' | 'Z'                              
+Expression -> Expression PlusMinus SecondTerm | SecondTerm
+SecondTerm -> Term | SecondTerm TimesDivide Term
+Term -> Factor | Term Exponent Factor
+Factor -> 'A' | 'X' | 'Y' | 'Z'                              
 PlusMinus -> '+' | '-'
-Exponent -> '^'
-TimesDivide -> '*' | '/'                  
+TimesDivide -> '*' | '/'  
+Exponent -> '^'                              
 """)
 
-print('The productions are:', grammar.productions()) # Print the productions
+print('\n\n\nThe productions are:', grammar.productions(), "\n\n\t\tDefault sentence is: A ^ X + Y * Z \n\t\t(Note: Make sure to put spaces)") 
 
 parser = ChartParser(grammar)
-sentence = 'W ^ X + Y * Z'.split() # Sentence
-print('The statement is', sentence) # Print the statement
-for tree in parser.parse(sentence):
-    print(tree)
-    tree.draw()
+#sentence = 'A ^ X + Y * Z'.split()
+sentence = input("Sentence: ").split()
+print('The statement is', sentence)
+
+
+try:
+    for tree in parser.parse(sentence):
+        #print(tree)
+        tree.pretty_print()
+        tree.draw()
+except ValueError:
+    print("No parse tree possible.")

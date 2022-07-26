@@ -8,7 +8,7 @@ using namespace std;
 
 int fib() {
   static int a = 0;
-  static int b = 1; // static local var
+  static int b = 1; // static local var Stored on static storage area
   int temp = a + b;
   a = b;
   b = temp; 
