@@ -29,8 +29,16 @@ O -> OOs
 O -> OsO
 O -> “”
 
+So, 
+O -> sOO
+O -> ssOO
+O -> ssrO
+O -> ssrr
 
 
+# -----
+# Without O -> ""
+# -----
 
 O -> Or
 O -> sOO
